@@ -1,0 +1,17 @@
+div {
+    display: inline-block;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover {
+    background-color: yellow;
+}
+
+/*div#d1 {
+    background-color: blue;
+}*/
